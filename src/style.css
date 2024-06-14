@@ -63,6 +63,12 @@
     border: 2px solid brown;
     padding: 0 10px;
   } */
+
+  .due{
+    text-align: center;
+    border: 2px solid blueviolet;
+    padding: 10px 0px;
+  }
   
   .fun {
     font-size: 50px;
