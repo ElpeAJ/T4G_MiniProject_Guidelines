@@ -121,5 +121,10 @@
   } */
   
 
-  /* styling for  */
+/* media query */
+@media (max-width: 280px){
+  .cohort{
+    display: none;
+  }
+}
  
